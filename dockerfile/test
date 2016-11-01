@@ -13,4 +13,3 @@ ENTRYPOINT ["sh", "./run.sh"]
 ENV ASPNETCORE_URLS http://+:5000
 
 WORKDIR /src
-
